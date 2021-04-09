@@ -1,0 +1,10 @@
+Aggregate_order*/Aggregate/info/*
+Aggregate_order*/Aggregate/__pycache__
+Aggregate_order01/Aggregate/db/videodata01.db
+Aggregate_order12/Aggregate/db/videodata12.db
+Aggregate_order23/Aggregate/db/videodata23.db
+Aggregate_order34/Aggregate/db/videodata34.db
+Aggregate_order01/Aggregate/db/db_alter.py
+Aggregate_order12/Aggregate/db/db_alter.py
+Aggregate_order23/Aggregate/db/db_alter.py
+Aggregate_order34/Aggregate/db/db_alter.py
