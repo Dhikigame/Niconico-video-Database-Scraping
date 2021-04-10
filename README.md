@@ -2,7 +2,13 @@
 
 ニコニコ動画の情報を集めるデータベースを更新し続けるスクリプト
 
+以下のようにデータベースを解析してランキング動画で使用しています
+https://www.upload.nicovideo.jp/garage/series/97621
+
 A script that keeps updating the database that collects information on Nico Nico Douga
+
+We analyze the database as follows and use it in the ranking video
+https://www.upload.nicovideo.jp/garage/series/97621
 
 # DEMO
 
